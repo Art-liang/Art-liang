@@ -1,5 +1,11 @@
 ### Hi there 👋
+Hi, I'm Alice! I am a front-end Developer of web. I love learing new technology and skills of web.
 
+📚語言和框架
+HTML5
+CSS3
+Bootstrap
+JavaScript
 <!--
 **Art-liang/Art-liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
